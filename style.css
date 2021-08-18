@@ -1,0 +1,21 @@
+section{
+    margin-bottom: 100px;
+}
+img{
+    width: 100%;
+}
+.bd-panda{
+    background-color: #fceae8;
+}
+.btn-link{
+    background-image: linear-gradient(rgb(255, 88, 155) 0%, rgb(255, 19, 111) 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.catagory img{
+    width: 100px;
+}
+.bor-rad {
+    border-radius: 12px !important;
+}
